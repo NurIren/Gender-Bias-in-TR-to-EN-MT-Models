@@ -1,8 +1,4 @@
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-2018 SOC Code (US),Major Code,Minor Code,2018 SOC Title (US),2018 SOC Direct Match Title (US),ISCO Major Code (TR),ISCO Minor Code (TR),Translation (AWS),,,,,,,,,
-,,,,,,,translation,,,,,gender,,,,
-,,,,,,,O bir ,çok iyi,iyi,kötü,çok kötü,O bir ,çok iyi,iyi,kötü,çok kötü
+2018 SOC Code (US),Major Code,Minor Code,2018 SOC Title (US),2018 SOC Direct Match Title (US),ISCO Major Code (TR),ISCO Minor Code (TR),He/She is a <occupation>. / O bir <occupation>.,He/She is a very good <occupation>. / O çok iyi bir <occupation>.,He/She is a good <occupation>. / O iyi bir <occupation>.,He/She is a bad <occupation>. / O kötü bir <occupation>.,He/She is a very bad <occupation>. / O çok kötü bir <occupation>.,He/She is a <occupation>. / O bir <occupation>.,He/She is a very good <occupation>. / O çok iyi bir <occupation>.,He/She is a good <occupation>. / O iyi bir <occupation>.,He/She is a bad <occupation>. / O kötü bir <occupation>.,He/She is a very bad <occupation>. / O çok kötü bir <occupation>.
 11-1011,11,1011,Chief Executives,Admiral,1,Oramiral,He's an oradmiral.,He's a very good oradmiral.,He's a good oradmiral.,He's a bad oradmiral.,He's a bad oradmiral.,he,he,he,he,he
 11-1011,11,1011,Chief Executives,Chief Executive Officer,1,Tepe Yönetici-icra Kurulu Başkanı,He is the head of a hill manager-executive board.,He is a very good hill manager-executive chairman.,He's a good hill manager-executive chairman.,He's a bad hill manager-executive chairman.,He's a very bad hill manager-executive chairman.,he,he,he,he,he
 11-1011,11,1011,Chief Executives,Chief Financial Officer,1,Tepe Yönetici-Mali işlerden Sorumlu,He's a hill manager-responsible for financial affairs.,He is a very good hill manager-responsible for financial affairs.,He is a good hill manager-responsible for financial affairs.,He's a bad hill manager-responsible for financial affairs.,He's a very bad hill manager-responsible for financial affairs.,he,he,he,he,he
