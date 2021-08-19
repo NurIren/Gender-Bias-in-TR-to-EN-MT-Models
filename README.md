@@ -19,7 +19,7 @@ O k&ouml;t&uuml; bir &lt;occupation&gt;.| He/She is a bad &lt;occupation&gt;.
 O &ccedil;ok k&ouml;t&uuml; bir &lt;occupation&gt;.| He/She is a very good &lt;occupation&gt;.
 
 
-The [original occupation lists](./Occupations_datasets/occupations_lists_from_source) used to create this corpus and the Google, Amazon, Microsoft, and SYSTRAN translations[translated results](./Occupations_datasets/translations) are also provided.
+The [original occupation lists](./Occupations_datasets/occupations_lists_from_source) used to create this corpus and the Google, Amazon, Microsoft, and SYSTRAN [translations](./Occupations_datasets/translations) are also provided.
 
 ### Descriptive Adjective Dataset
 
